@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Listly</string>
+    <string name="listly">Listly</string>
+    <string name="shopping">Shopping.</string>
+    <string name="simplified">Simplified.</string>
+    <string name="item">ITEM</string>
+    <string name="price">PRICE</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_description">Item Description</string>
+    <string name="_0_0">$0.0</string>
+    <string name="emptyField">This field can not be empty</string>
+    <string name="ok">OK</string>
+    <string name="editItem">Edit item</string>
+    <string name="newItem">New Item</string>
+    <string name="newItemClick">Click here to create new items</string>
+    <string name="itemDesc">Item Description</string>
+    <string name="runtimeExcept">The activity does not implement the TodoHandlerInterface</string>
+    <string name="description">Description:</string>
+    <string name="priceLabel">Price:</string>
+</resources>
